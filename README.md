@@ -2,4 +2,4 @@
 
 Hey Brad, I'm kind of just using this as an opportunity to practice using [Git](https://git-scm.com/)
 
-NEW TEST 2
+NEW TEST 3
